@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%C4%90%E1%BB%97%20Th%C3%A0nh%20%C4%90%E1%BA%A1t&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%C4%90%E1%BB%97%20Th%C3%A0nh%20%C4%90%E1%BA%A1t&fontSize=60&fontColor=111&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=codewithdtd">
