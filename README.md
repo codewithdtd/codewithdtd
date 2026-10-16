@@ -1,10 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%C4%90%E1%BB%97%20Th%C3%A0nh%20%C4%90%E1%BA%A1t&fontSize=60&fontColor=111&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<div align="center">
+  <!-- Cyber-Blue Dynamic Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050811,40:0f172a,75:0284c7,100:00f2fe&text=%C4%90%E1%BB%97%20Th%C3%A0nh%20%C4%90%E1%BA%A1t&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=codewithdtd">
-    <img src="https://komarev.com/ghpvc/?username=codewithdtd&label=Profile%20views&color=00FFFF&style=flat-square" alt="codewithdtd's profile views" />
+  <!-- Typing SVG Animation -->
+  <a href="https://github.com/codewithdtd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=40&lines=Full-stack+Software+Developer;React+%7C+Vue+%7C+Node.js+%7C+FastAPI;Exploring+AI+Integrations+%26+FDE" alt="Typing SVG" />
   </a>
-</p>
+
+  <!-- Profile Views Badge -->
+  <p align="center" style="margin-top: 10px;">
+    <a href="https://github.com/codewithdtd">
+      <img src="https://komarev.com/ghpvc/?username=codewithdtd&label=PROFILE+VIEWS&color=0284c7&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+    </a>
+  </p>
+</div>
+
+## 👨‍💻 About Me
+
+> **Full-stack Developer** with a relentless drive for exploring, learning, and applying modern technologies to solve real-world problems.
+
+- 🔭 **What I Do**: Specialize in end-to-end web engineering — crafting dynamic, responsive user interfaces with **React / Vue.js** and architecting robust backends using **Node.js, Express, FastAPI, and Laravel**.
+- ⚙️ **Technical Focus**: Clean code, modular system architectures, database optimization (SQL/NoSQL), and seamless API design (RESTful & WebSockets).
+- 🎯 **Current Focus**: Leveraging AI-powered tools & workflows to accelerate software development, write smarter code, and integrate intelligent features into web applications.
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
